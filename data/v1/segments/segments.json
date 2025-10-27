@@ -1,0 +1,10 @@
+[
+  { "label": "Beleza e estética", "value": "beleza_estetica" },
+  { "label": "Saúde e bem-estar", "value": "saude_bem_estar" },
+  { "label": "Fitness e esportes", "value": "fitness_esportes" },
+  { "label": "Educação e cursos", "value": "educacao_cursos" },
+  { "label": "Serviços automotivos", "value": "servicos_automotivos" },
+  { "label": "Pets e veterinária", "value": "pets_veterinaria" },
+  { "label": "Eventos e fotografia", "value": "eventos_fotografia" },
+  { "label": "Negócios e consultoria", "value": "negocios_consultoria" }
+]

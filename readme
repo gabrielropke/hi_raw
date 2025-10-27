@@ -1,0 +1,24 @@
+## HI_RAW
+
+Este repositório armazena arquivos de dados em formato **JSON** utilizados por diferentes partes do ecossistema **HI**.  
+O objetivo é centralizar informações reutilizáveis, padronizadas e facilmente versionáveis.
+
+---
+
+## 📁 Estrutura
+
+```bash
+📂 data/
+ ├── 📂 v1/
+ │    ├── 📂 business/
+ │    │    └── team_size.json        # Tamanhos de equipe (only_me, up_to_3, etc.)
+ │    │
+ │    ├── 📂 colors/
+ │    │    └── colors.json           # Paleta de cores padrão
+ │    │
+ │    ├── 📂 segments/
+ │    │    ├── segments.json         # Lista de segmentos principais
+ │    │    └── sub_segments.json     # Lista de subsegmentos relacionados
+ │
+ └── ... 
+```
