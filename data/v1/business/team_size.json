@@ -1,6 +1,6 @@
 [
-  "only_me",
-  "up_to_3",
-  "between_4_and_10",
-  "more_than_10"
+  { "label": "Apenas eu", "key": "only_me" },
+  { "label": "Até 3", "key": "up_to_3" },
+  { "label": "Entre 4 e 10", "key": "between_4_and_10" },
+  { "label": "Mais de 10", "key": "more_than_10" }
 ]
