@@ -1,9 +1,9 @@
 [
-  { "key": "online_booking", "label": "Receber agendamentos online" },
-  { "key": "internal_agenda", "label": "Ter e gerir uma agenda interna" },
-  { "key": "client_management", "label": "Gerenciar e fidelizar clientes" },
-  { "key": "online_payments", "label": "Receber pagamentos online" },
-  { "key": "team_management", "label": "Gerenciar equipes e funcionários" },
-  { "key": "financial_control", "label": "Ter controle financeiro" },
-  { "key": "get_more_clients", "label": "Ganhar mais clientes" }
+  { "key": "ONLINE_BOOKING", "label": "Receber agendamentos online" },
+  { "key": "INTERNAL_AGENDA", "label": "Ter e gerir uma agenda interna" },
+  { "key": "CLIENT_MANAGEMENT", "label": "Gerenciar e fidelizar clientes" },
+  { "key": "ONLINE_PAYMENTS", "label": "Receber pagamentos online" },
+  { "key": "TEAM_MANAGEMENT", "label": "Gerenciar equipes e funcionários" },
+  { "key": "FINANCIAL_CONTROL", "label": "Ter controle financeiro" },
+  { "key": "GET_MORE_CLIENTS", "label": "Ganhar mais clientes" }
 ]
